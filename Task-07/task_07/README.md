@@ -1,16 +1,25 @@
-# task_07
+# Task 07 - IEEE-CS-MOBILE-26
 
-A new Flutter project.
+This project is **Task 07** for the IEEE-CS-MOBILE-26 track.
 
-## Getting Started
+## 📱 Task Overview
 
-This project is a starting point for a Flutter application.
+This Flutter application was developed as part of the IEEE Computer Society Mobile Track.
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshot
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Below is a screenshot of the application:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Task 07 Screenshot](screenshot/Screenshot.png)
+
+## 🚀 Getting Started
+
+This is a Flutter project.
+
+To run the project locally:
+
+1. Make sure Flutter is installed.
+2. Run:
+   ```bash
+   flutter pub get
+   flutter run
