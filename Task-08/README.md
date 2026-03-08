@@ -1,16 +1,27 @@
-# task_08
+# Task 08 - IEEE-CS-MOBILE-26
 
-A new Flutter project.
+This project is **Task 08** for the IEEE-CS Mobile Track.
 
-## Getting Started
+## 📱 Task Overview
 
-This project is a starting point for a Flutter application.
+A Flutter UI application that recreates a recipe screen with a draggable bottom sheet.
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot 1](screenshots/screenshot1.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2](screenshots/screenshot2.png)
+
+## 🚀 Getting Started
+
+This is a Flutter project.
+
+### Requirements
+- Flutter SDK
+- Android Studio or VS Code
+
+### Run the project
+
+```bash
+flutter pub get
+flutter run
