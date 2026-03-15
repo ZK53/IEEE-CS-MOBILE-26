@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:task_09/utilities/calculate_bmi.dart';
 import 'package:task_09/widgets/age.dart';
 import 'package:task_09/widgets/calculate_button.dart';
 import 'package:task_09/widgets/gender.dart';
@@ -78,7 +79,7 @@ class _HomeState extends State<Home> {
             ),
             CalculateButton(
               calculate: () {
-                // TODO
+                calculateBMI(context, height, weight);
               },
             ),
           ],
