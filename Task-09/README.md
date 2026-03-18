@@ -1,16 +1,39 @@
-# task_09
+# Task 09 - IEEE-CS-MOBILE-26
 
-A new Flutter project.
+This project is **Task 09** for the IEEE-CS Mobile Track.
 
-## Getting Started
+## 📱 Task Overview
 
-This project is a starting point for a Flutter application.
+A Flutter application that calculates **Body Mass Index (BMI)** based on user input (gender, height, weight, and age).
 
-A few resources to get you started if this is your first Flutter project:
+The app provides:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Interactive UI for input
+- BMI calculation
+- Result classification (Underweight, Normal, Overweight, Obese)
+- Detailed health message
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+![Main Screen](screenshots/main.png)
+
+![Calculation Result](screenshots/calculation.png)
+
+![Message Dialog](screenshots/message.png)
+
+## 🚀 Getting Started
+
+This is a Flutter project.
+
+### Requirements
+
+- Flutter SDK
+- Android Studio or VS Code
+- Emulator or physical device
+
+### Run the project
+
+```bash
+flutter pub get
+flutter run
+```
