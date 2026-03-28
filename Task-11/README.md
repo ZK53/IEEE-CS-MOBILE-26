@@ -1,16 +1,39 @@
-# task_11
+# Task 11 - IEEE-CS-MOBILE-26
 
-A new Flutter project.
+This project is **Task 11** for the IEEE-CS Mobile Track.
 
-## Getting Started
+## 📱 Task Overview
 
-This project is a starting point for a Flutter application.
+A Flutter application for managing daily tasks with a clean UI.
 
-A few resources to get you started if this is your first Flutter project:
+Features include:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Adding new tasks using a bottom sheet
+- Selecting date and time
+- Viewing tasks list
+- Simple task management UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+![Tasks Screen](screenshots/tasks_screen.png)
+
+![Bottom Sheet](screenshots/bottom_sheet.png)
+
+![Adding Task](screenshots/adding_task.png)
+
+## 🚀 Getting Started
+
+This is a Flutter project.
+
+### Requirements
+
+- Flutter SDK
+- Android Studio or VS Code
+- Emulator or physical device
+
+### Run the project
+
+```bash
+flutter pub get
+flutter run
+```
